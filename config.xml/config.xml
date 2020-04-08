@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.first app ever"
+    versionCode = "10"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Treasure</name>
+
+  <description>
+      Made by Jordon first app you get fools gold in this game so there is only a 50% chance that you will get one score.
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      Jordon
+  </author>
+
+  <icon src='icon.png' />
+
+</widget>
